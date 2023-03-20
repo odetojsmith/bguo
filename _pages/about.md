@@ -13,7 +13,8 @@ I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](htt
 
 
 # Publications
-
+## On Zeroth-Order Optimization 
+- **Guo, B.**, Jiang, Y., Kamgarpour, M., & Trecate, G. F. (2022). Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations. arXiv preprint arXiv:2211.02645.
 Publications
 ======
 
