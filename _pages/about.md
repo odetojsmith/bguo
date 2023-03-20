@@ -1,7 +1,7 @@
 I am a fourth-year PhD student on Optimization and Control in EPF Lausanne, supervised by Prof. [Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate) and [Prof. Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en). My current research interest is model-free optimization with its application in power system operation, controller tuning and reinforcement learning. Previously, I obtained my Master degree in Electrical Engineering from ETH Zurich. My dual Bachelor degrees from [Harbin Institute of Technology](http://en.hit.edu.cn) are in Electrical Engineering and Applied Mathematics.
 
 
-#Publications
+Publications
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
