@@ -16,7 +16,7 @@ I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](htt
 ## On Zeroth-Order Optimization 
 - **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2023). A Linear-Program-Based Safe Zeroth-Order Approach and Its Application to Optimal Power Flow. Submitted to CDC 23.
 - **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2023). Safe Zeroth-Order Optimization Using Quadratic Local Approximations. Submitted to Automatica.
-- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2022). Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations. Accepted to ECC 23.
+- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2022). [Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
 
 
 
