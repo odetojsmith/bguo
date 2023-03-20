@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About me"
+excerpt: 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I am a fourth-year PhD student on Optimization and Control in EPF Lausanne, supervised by Prof. [Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate) and [Prof. Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en). My current research interest is model-free optimization with its application in power system operation, controller tuning and reinforcement learning. Previously, I obtained my Master degree in Electrical Engineering from ETH Zurich. My dual Bachelor degrees from [Harbin Institute of Technology](http://en.hit.edu.cn) are in Electrical Engineering and Applied Mathematics.
 
 
