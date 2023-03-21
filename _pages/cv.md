@@ -22,6 +22,8 @@ Skills
   * Optimization, Measure-based Probability Theory, Statistics, Functional Analysis
 * Control
   * Model Predictive Control, Nonlinear Control Theory
+* Application Fields
+  * Power Systems, Power Electronics
 * Programming
   * Matlab, C/C++, Python
   
