@@ -19,7 +19,7 @@ redirect_from:
 * Mathematics 
   * Optimization, Measure-based Probability Theory, Statistics, Functional Analysis
 * Control
-  * Model Predictive Control, Nonlinear Control Theory,
+  * Model Predictive Control, Nonlinear Control Theory
 * Programming
   * Matlab, C/C++, Python
   
