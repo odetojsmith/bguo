@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+Education
+======
 * B.S. in Electrical Engineering, Harbin Institute of Technology, 2016
 * B.S. in Applied Mathematics, Harbin Institute of Technology, 2016
 * M.S. in Electrical Engineering, ETH Zurich, 2019
 * Ph.D in Electrical Engineering, EPFL, 2023 (expected)
 
-#Skills
+Skills
+======
 * Mathematics 
   * Optimization, Measure-based Probability Theory, Statistics, Functional Analysis
 * Control
@@ -23,6 +25,9 @@ redirect_from:
 * Programming
   * Matlab, C/C++, Python
   
-#Service and leadership
+Service
+======
 * Reviewer of
   * CDC 20, ACC 21, ECC 23, IFAC 23, IEEE Transactions on Automatic Control
+* Organizer of 
+  * ETHZ-EPFL Summer School: "Foundations and mathematical guarantees of data-driven control", 2021
