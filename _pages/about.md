@@ -12,11 +12,20 @@ redirect_from:
 I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](https://www.epfl.ch/en/), supervised by Prof. [Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate) and [Prof. Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en). My current research interest is model-free optimization with its application in power system operation, controller tuning and reinforcement learning. Previously, I obtained my Master degree in Electrical Engineering from [ETH Zurich](https://ethz.ch/en.html). My dual Bachelor degrees from [Harbin Institute of Technology](http://en.hit.edu.cn) are in Electrical Engineering and Applied Mathematics.
 
 
-# Publications
+# Publications and preprints
 ## On Zeroth-Order Optimization 
-- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2023). A Linear-Program-Based Safe Zeroth-Order Approach and Its Application to Optimal Power Flow. Submitted to CDC 23.
-- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2023). Safe Zeroth-Order Optimization Using Quadratic Local Approximations. Submitted to Automatica.
-- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari Trecate. (2022). [Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
+- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). A Linear-Program-Based Safe Zeroth-Order Approach and Its Application to Optimal Power Flow. Submitted to CDC 23.
+- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). Safe Zeroth-Order Optimization Using Quadratic Local Approximations. Submitted to Automatica.
+- **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
+
+## On Behavioral-Model-Based Robust Control
+- **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari Trecate. (2023). Data-Driven Robust Control based on Perturbation Analysis of the Behavioral Model. In preparation.
+- Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate. [Near-optimal design of safe output feedback controllers from noisy data](https://odetojsmith.github.io/bguo.github.io/files/BIOP_TAC_22.pdf). IEEE Transactions on Automatic Control (2022).
+- Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate. [A behavioral input-output parametrization of control policies with suboptimality guarantees](https://odetojsmith.github.io/bguo.github.io/files/BIOP_CDC21.pdf). In 2021 60th IEEE Conference on Decision and Control (CDC), pp. 2539-2544. IEEE, 2021.
+- Xu Liang, Mustafa Sahin Turan, **Baiwei Guo**, and Giancarlo Ferrari-Trecate. [Non-conservative design of robust tracking controllers based on input-output data](https://odetojsmith.github.io/bguo.github.io/files/NC_Robust_L4DC_21.pdf). In Learning for Dynamics and Control, pp. 138-149. PMLR, 2021.
+
+
+
 
 
 
