@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](https://www.epfl.ch/en/), supervised by Prof. [Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate) and [Prof. Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en). My current research interest is model-free optimization with its application in power system operation, controller tuning and reinforcement learning. Previously, I obtained my Master degree in Electrical Engineering from [ETH Zurich](https://ethz.ch/en.html). My dual Bachelor degrees from [Harbin Institute of Technology](http://en.hit.edu.cn) are in Electrical Engineering and Applied Mathematics.
+I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](https://www.epfl.ch/en/), supervised by [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate) and [Prof. Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en). My current research interest is model-free optimization with its application in power system operation, controller tuning and reinforcement learning. Previously, I obtained my Master degree in Electrical Engineering from [ETH Zurich](https://ethz.ch/en.html). My dual Bachelor degrees from [Harbin Institute of Technology](http://en.hit.edu.cn) are in Electrical Engineering and Applied Mathematics.
 
 
 # Publications and preprints
 ## On Zeroth-Order Optimization 
 - \[PC\] **Baiwei Guo**, Yang Wang, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). A Linear-Program-Based Safe Zeroth-Order Approach and Its Application to Optimal Power Flow. Submitted to CDC 23.
-- \[PJ\] **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). Safe Zeroth-Order Optimization Using Quadratic Local Approximations. Submitted to Automatica.
+- \[PJ\] **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari-Trecate, and Maryam Kamgarpour. (2023). Safe Zeroth-Order Optimization Using Quadratic Local Approximations. Submitted to Automatica.
 - \[C\] **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe Zeroth-Order Convex Optimization Using Quadratic Local Approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
 
 ## On Behavioral-Model-Based Robust Control
