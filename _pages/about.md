@@ -24,6 +24,11 @@ I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](htt
 - Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate. [A behavioral input-output parametrization of control policies with suboptimality guarantees](https://odetojsmith.github.io/bguo.github.io/files/BIOP_CDC21.pdf). In 2021 60th IEEE Conference on Decision and Control (CDC), pp. 2539-2544. IEEE, 2021.
 - Xu Liang, Mustafa Sahin Turan, **Baiwei Guo**, and Giancarlo Ferrari-Trecate. [Non-conservative design of robust tracking controllers based on input-output data](https://odetojsmith.github.io/bguo.github.io/files/NC_Robust_L4DC_21.pdf). In Learning for Dynamics and Control, pp. 138-149. PMLR, 2021.
 
+## On Combinatorial Optimization and Actuator Placement
+- **Baiwei Guo**, Orcun Karaca, Sepide Azhdari, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. [Actuator placement for structural controllability beyond strong connectivity and towards robustness](https://odetojsmith.github.io/bguo.github.io/files/AP_Good_CDC21.pdf). In 2021 60th IEEE Conference on Decision and Control (CDC), pp. 5294-5299. IEEE, 2021.
+- Karaca Orcun, **Baiwei Guo**, and Maryam Kamgarpour. [A comment on performance guarantees of a greedy algorithm for minimizing a supermodular set function on comatroid](https://odetojsmith.github.io/bguo.github.io/files/AP_Comment_EJOR_21.pdf). European Journal of Operational Research 290, no. 1 (2021): 401-403.
+- **Baiwei Guo**, Orcun Karaca, Tyler Summers, and Maryam Kamgarpour. [Actuator placement under structural controllability using forward and reverse greedy algorithms](https://odetojsmith.github.io/bguo.github.io/files/AP_TAC_20.pdf). IEEE Transactions on Automatic Control 66, no. 12 (2020): 5845-5860.
+- **Baiwei Guo**, Orcun Karaca, Tyler Summers, and Maryam Kamgarpour. [Actuator placement for optimizing network performance under controllability constraints](https://odetojsmith.github.io/bguo.github.io/files/AP_CDC19.pdf). In 2019 IEEE 58th Conference on Decision and Control (CDC), pp. 7140-7147. IEEE, 2019.
 
 
 
