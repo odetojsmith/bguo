@@ -16,7 +16,7 @@ I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](htt
 ## On Zeroth-Order Optimization 
 - \[PC\] **Baiwei Guo**, Yang Wang, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe zeroth-order approach using linear programs](https://odetojsmith.github.io/bguo.github.io/files/SZO-LP-CDC23.pdf). Submitted to CDC 23.
 - \[PJ\] **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari-Trecate, and Maryam Kamgarpour. (2023). [Safe zeroth-order optimization using quadratic local approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO-QQ-Auto.pdf). Submitted to Automatica.
-- \[C\] **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe zeroth-Order convex optimization using quadratic local approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
+- \[C\] **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe zeroth-order convex optimization using quadratic local approximations](https://odetojsmith.github.io/bguo.github.io/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
 
 ## On Behavioral-Model-Based Robust Control
 - \[PJ\] **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari Trecate. (2023). Data-Driven Robust Control based on Perturbation Analysis of the Behavioral Model. In preparation.
