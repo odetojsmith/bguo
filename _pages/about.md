@@ -12,7 +12,7 @@ redirect_from:
 I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](https://www.epfl.ch/en/), supervised by [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate) and [Prof. Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en). My current research interest is model-free optimization with its application in power system operation, controller tuning and reinforcement learning. Previously, I obtained my Master degree in Electrical Engineering from [ETH Zurich](https://ethz.ch/en.html). My dual Bachelor degrees from [Harbin Institute of Technology](http://en.hit.edu.cn) are in Electrical Engineering and Applied Mathematics.
 
 
-# Publications and preprints
+# Publications (J/C) and preprints (PJ/PC)
 ## On Zeroth-Order Optimization 
 - \[PC\] **Baiwei Guo**, Yang Wang, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe zeroth-order approach using linear programs](https://odetojsmith.github.io/bguo/files/SZO-LP-CDC23.pdf). Submitted to CDC 23.
 - \[PJ\] **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari-Trecate, and Maryam Kamgarpour. (2023). [Safe zeroth-order optimization using quadratic local approximations](https://odetojsmith.github.io/bguo/files/SZO-QQ-Auto.pdf). Submitted to Automatica.
