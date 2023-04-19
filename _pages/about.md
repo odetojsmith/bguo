@@ -14,27 +14,51 @@ I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](htt
 
 # Publications (J/C) and preprints (PJ/PC)
 ## On Zeroth-Order Optimization 
-- \[PC\] [Safe zeroth-order approach using linear programs](https://odetojsmith.github.io/bguo/files/SZO-LP-CDC23.pdf).  
-         **Baiwei Guo**, Yang Wang, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023).  
+- \[PC\] [Safe zeroth-order approach using linear programs](https://odetojsmith.github.io/bguo/files/SZO-LP-CDC23.pdf) 
+         **Baiwei Guo**, Yang Wang, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. 
          Submitted to CDC 23.
-- \[PJ\] **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari-Trecate, and Maryam Kamgarpour. (2023). [Safe zeroth-order optimization using quadratic local approximations](https://odetojsmith.github.io/bguo/files/SZO-QQ-Auto.pdf). Submitted to Automatica.
-- \[C\] **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023). [Safe zeroth-order convex optimization using quadratic local approximations](https://odetojsmith.github.io/bguo/files/SZO_QQ_ECC23.pdf). Accepted to ECC 23.
+- \[PJ\] [Safe zeroth-order optimization using quadratic local approximations](https://odetojsmith.github.io/bguo/files/SZO-QQ-Auto.pdf)  
+         **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari-Trecate, and Maryam Kamgarpour. (2023). 
+         Submitted to Automatica.
+- \[C\]  [Safe zeroth-order convex optimization using quadratic local approximations](https://odetojsmith.github.io/bguo/files/SZO_QQ_ECC23.pdf)  
+         **Baiwei Guo**, Yuning Jiang, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. (2023).  
+         Accepted to European Control Conference (ECC) 2023.
 
 ## On Behavioral-Model-Based Robust Control
-- \[PJ\] **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari Trecate. (2023). Data-Driven Robust Control based on Perturbation Analysis of the Behavioral Model. In preparation.
-- \[J\] Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate. [Near-optimal design of safe output feedback controllers from noisy data](https://odetojsmith.github.io/bguo/files/BIOP_TAC_22.pdf). IEEE Transactions on Automatic Control (2022).
-- \[C\] Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate. [A behavioral input-output parametrization of control policies with suboptimality guarantees](https://odetojsmith.github.io/bguo/files/BIOP_CDC21.pdf). In 2021 60th IEEE Conference on Decision and Control (CDC), pp. 2539-2544. IEEE, 2021.
-- \[C\] Xu Liang, Mustafa Sahin Turan, **Baiwei Guo**, and Giancarlo Ferrari-Trecate. [Non-conservative design of robust tracking controllers based on input-output data](https://odetojsmith.github.io/bguo/files/NC_Robust_L4DC_21.pdf). In Learning for Dynamics and Control, pp. 138-149. PMLR, 2021.
+- \[PJ\] Data-Driven Robust Control based on Perturbation Analysis of the Behavioral Model  
+         **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari Trecate. (2023). 
+         In preparation.
+- \[J\] [Near-optimal design of safe output feedback controllers from noisy data](https://odetojsmith.github.io/bguo/files/BIOP_TAC_22.pdf)   
+        Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate.   
+        IEEE Transactions on Automatic Control (2022).
+- \[C\] [A behavioral input-output parametrization of control policies with suboptimality guarantees](https://odetojsmith.github.io/bguo/files/BIOP_CDC21.pdf)  
+        Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate.   
+        In 60th IEEE Conference on Decision and Control (CDC), 2021.
+- \[C\] [Non-conservative design of robust tracking controllers based on input-output data](https://odetojsmith.github.io/bguo/files/NC_Robust_L4DC_21.pdf)  
+        Xu Liang, Mustafa Sahin Turan, **Baiwei Guo**, and Giancarlo Ferrari-Trecate.  
+        In Learning for Dynamics and Control, 2021.
 
 ## On Combinatorial Optimization and Actuator Placement
-- \[C\] **Baiwei Guo**, Orcun Karaca, Sepide Azhdari, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate. [Actuator placement for structural controllability beyond strong connectivity and towards robustness](https://odetojsmith.github.io/bguo/files/AP_Good_CDC21.pdf). In 2021 60th IEEE Conference on Decision and Control (CDC), pp. 5294-5299. IEEE, 2021.
-- \[J\] Karaca Orcun, **Baiwei Guo**, and Maryam Kamgarpour. [A comment on performance guarantees of a greedy algorithm for minimizing a supermodular set function on comatroid](https://odetojsmith.github.io/bguo/files/AP_Comment_EJOR_21.pdf). European Journal of Operational Research 290, no. 1 (2021): 401-403.
-- \[J\] **Baiwei Guo**, Orcun Karaca, Tyler Summers, and Maryam Kamgarpour. [Actuator placement under structural controllability using forward and reverse greedy algorithms](https://odetojsmith.github.io/bguo/files/AP_TAC_20.pdf). IEEE Transactions on Automatic Control 66, no. 12 (2020): 5845-5860.
-- \[C\] **Baiwei Guo**, Orcun Karaca, Tyler Summers, and Maryam Kamgarpour. [Actuator placement for optimizing network performance under controllability constraints](https://odetojsmith.github.io/bguo.github.io/files/AP_CDC19.pdf). In 2019 IEEE 58th Conference on Decision and Control (CDC), pp. 7140-7147. IEEE, 2019.
+- \[C\] [Actuator placement for structural controllability beyond strong connectivity and towards robustness](https://odetojsmith.github.io/bguo/files/AP_Good_CDC21.pdf)  
+        **Baiwei Guo**, Orcun Karaca, Sepide Azhdari, Maryam Kamgarpour, and Giancarlo Ferrari-Trecate.  
+        In 60th IEEE Conference on Decision and Control (CDC), 2021.
+- \[J\] [A comment on performance guarantees of a greedy algorithm for minimizing a supermodular set function on comatroid](https://odetojsmith.github.io/bguo/files/AP_Comment_EJOR_21.pdf)  
+        Karaca Orcun, **Baiwei Guo**, and Maryam Kamgarpour.  
+        European Journal of Operational Research (2021).
+- \[J\] [Actuator placement under structural controllability using forward and reverse greedy algorithms](https://odetojsmith.github.io/bguo/files/AP_TAC_20.pdf)  
+        **Baiwei Guo**, Orcun Karaca, Tyler Summers, and Maryam Kamgarpour.  
+        IEEE Transactions on Automatic Control (2020).
+- \[C\] [Actuator placement for optimizing network performance under controllability constraints](https://odetojsmith.github.io/bguo.github.io/files/AP_CDC19.pdf)   
+        **Baiwei Guo**, Orcun Karaca, Tyler Summers, and Maryam Kamgarpour.  
+        In 58th IEEE Conference on Decision and Control (CDC), 2019.
 
 ## On Sample Complexity Analysis
-- \[C\] Liang Xu, **Baiwei Guo**, and Giancarlo Ferrari-Trecate. [Finite-sample-based Spectral Radius Estimation and Stabilizability Test for Networked Control Systems](https://odetojsmith.github.io/bguo/files/Stab_Ana_ECC21.pdf). In 2022 European Control Conference (ECC), pp. 2087-2092. IEEE, 2022.
+- \[C\] [Finite-sample-based Spectral Radius Estimation and Stabilizability Test for Networked Control Systems](https://odetojsmith.github.io/bguo/files/Stab_Ana_ECC21.pdf)   
+        Liang Xu, **Baiwei Guo**, and Giancarlo Ferrari-Trecate.  
+        In 2022 European Control Conference (ECC).
 
 ## On Distributed Optimal Control 
-- \[C\] Liang Xu, **Baiwei Guo**, Clara Galimberti, Marcello Farina, Ruggero Carli, and Giancarlo Ferrari Trecate. [Suboptimal distributed LQR design for physically coupled systems](https://odetojsmith.github.io/bguo/files/D_LQR_IFAC_20.pdf). IFAC-PapersOnLine 53, no. 2 (2020): 11032-11037.
+- \[C\]  [Suboptimal distributed LQR design for physically coupled systems](https://odetojsmith.github.io/bguo/files/D_LQR_IFAC_20.pdf)   
+         Liang Xu, **Baiwei Guo**, Clara Galimberti, Marcello Farina, Ruggero Carli, and Giancarlo Ferrari Trecate.   
+         In IFAC World Congress 2020.
 
