@@ -26,7 +26,7 @@ I am a fourth-year PhD student on Optimization and Control in [EPF Lausanne](htt
 
 ## On Behavioral-Model-Based Robust Control
 - \[PJ\] Data-Driven Robust Control based on Perturbation Analysis of the Behavioral Model  
-         **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari Trecate. (2023). 
+         **Baiwei Guo**, Yuning Jiang, Giancarlo Ferrari Trecate. (2023).    
          In preparation.
 - \[J\] [Near-optimal design of safe output feedback controllers from noisy data](https://odetojsmith.github.io/bguo/files/BIOP_TAC_22.pdf)   
         Furieri Luca, **Baiwei Guo**, Andrea Martin, and Giancarlo Ferrari-Trecate.   
